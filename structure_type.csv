@@ -1,0 +1,5 @@
+Structure Type ,Ct,m
+Concrete moment-resisting frames,0.0466,0.9
+Steel moment-resisting frames,0.0724,0.8
+Eccentrically braced steel frame,0.0731,0.75
+All other structural systems,0.0488,0.75

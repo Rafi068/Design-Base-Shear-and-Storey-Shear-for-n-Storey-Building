@@ -1,0 +1,36 @@
+Seismic Force–Resisting System ,"Response
+Reduction
+Factor, R","System
+Overstrength
+Factor, Ω","Deflection
+Amplification
+Factor, Cd","Seismic Design
+Category (B) 
+Height Limit (m)","Seismic Design
+Category (C) 
+Height Limit (m)","Seismic Design
+Category (D) 
+Height Limit (m)"
+"Steel eccentrically braced
+frames, moment resisting
+connections at columns
+away from links",8,2,4,,,50
+"Steel eccentrically braced
+frames, non-momentresisting, connections at
+columns away from links",7,2,4,,,50
+"Special steel concentrically
+braced frames
+",6,2,5,,,50
+"Ordinary steel
+concentrically braced
+frames
+",3.25,2,3.25,,,11
+"Special reinforced concrete
+shear walls",6,2.5,5,,,50
+"Ordinary reinforced
+concrete shear walls",5,2.5,4.25,,,
+"Ordinary reinforced
+masonry shear walls",2,2.5,2,,50,
+"Ordinary plain masonry
+shear walls
+",1.5,2.5,1.25,18,,

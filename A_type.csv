@@ -1,0 +1,22 @@
+Seismic Force–Resisting System ,"Response
+Reduction
+Factor, R","System
+Overstrength
+Factor, Ω","Deflection
+Amplification
+Factor, Cd","Seismic Design
+Category (B) 
+Height Limit (m)","Seismic Design
+Category (C) 
+Height Limit (m)","Seismic Design
+Category (D) 
+Height Limit (m)"
+"Special reinforced
+concrete shear walls",5,2.5,5,,,50
+"Ordinary reinforced
+concrete shear walls",4,2.5,4,,,
+"Ordinary reinforced
+masonry shear walls
+",2,2.5,1.75,,50,
+"Ordinary plain masonry
+shear walls",1.5,2.5,1.25,18,,

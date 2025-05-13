@@ -1,0 +1,27 @@
+Seismic Force–Resisting System ,"Response
+Reduction
+Factor, R","System
+Overstrength
+Factor, Ω","Deflection
+Amplification
+Factor, Cd","Seismic Design
+Category (B) 
+Height Limit (m)","Seismic Design
+Category (C) 
+Height Limit (m)","Seismic Design
+Category (D) 
+Height Limit (m)"
+"Special steel moment
+frames",8,3,5.5,,,
+"Intermediate steel moment
+frames",4.5,3,4,,,35
+"Ordinary steel moment
+frames
+",3.5,3,3,,,
+"Special reinforced concrete
+moment frames
+",8,3,5.5,,,
+"Intermediate reinforced
+concrete moment frames",5,3,4.5,,,
+"Ordinary reinforced
+concrete moment frames",3,3,2.5,,,
