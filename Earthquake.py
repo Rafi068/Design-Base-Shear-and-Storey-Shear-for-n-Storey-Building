@@ -174,7 +174,7 @@ st.write(f"Design Spectral Acceleration(Sa): **{final_Sa}**")
 st.markdown ("### Calculation of base shear")
 st.markdown ("The design base shear,V = Sa*W")
 V= final_Sa* total_load
-st.write (f"The design base shear is **{V}** KN")
+st.write (f"The design base shear is **{V:0.2f}** KN")
 
 
 #Final Calculation
