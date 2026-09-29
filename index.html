@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Seismic Base & Storey Shear (BNBC 2020)</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@stlite/browser@0.85.1/build/stlite.css" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module">
+      import { mount } from "https://cdn.jsdelivr.net/npm/@stlite/browser@0.85.1/build/stlite.js";
+      mount(
+        {
+          requirements: ["pandas"],
+          entrypoint: "Earthquake.py",
+          files: {
+            "A_type.csv": { url: "./A_type.csv" },
+            "B_type.csv": { url: "./B_type.csv" },
+            "C_type.csv": { url: "./C_type.csv" },
+            "D_type.csv": { url: "./D_type.csv" },
+            "E_type.csv": { url: "./E_type.csv" },
+            "Earthquake.py": { url: "./Earthquake.py" },
+            "F_type.csv": { url: "./F_type.csv" },
+            "G_type.csv": { url: "./G_type.csv" },
+            "Zones.csv": { url: "./Zones.csv" },
+            "building01.csv": { url: "./building01.csv" },
+            "building02.csv": { url: "./building02.csv" },
+            "occupancy_factor.csv": { url: "./occupancy_factor.csv" },
+            "occupancy_factor_table.csv": { url: "./occupancy_factor_table.csv" },
+            "percentage_LL.csv": { url: "./percentage_LL.csv" },
+            "seismic_zone_value.csv": { url: "./seismic_zone_value.csv" },
+            "soil_classification.csv": { url: "./soil_classification.csv" },
+            "structure_type.csv": { url: "./structure_type.csv" }
+          },
+        },
+        document.getElementById("root"),
+      );
+    </script>
+  </body>
+</html>
